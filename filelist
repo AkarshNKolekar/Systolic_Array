@@ -1,4 +1,3 @@
-/nethome/akolekar6/Desktop/ML_HW/Labs/Lab_3_v2/lab3_files/src/systolic_array.v
-/nethome/akolekar6/Desktop/ML_HW/Labs/Lab_3_v2/lab3_files/testbenches/systolic_array_tb.v
-/nethome/akolekar6/Desktop/ML_HW/Labs/Lab_3_v2/lab3_files/src/mac_unit.v
-#/nethome/akolekar6/Desktop/ML_HW/Labs/Lab_3_v2/lab3_files/testbenches/mac_unit_tb.v
+/src/systolic_array.v
+/testbenches/systolic_array_tb.v
+/src/mac_unit.v
